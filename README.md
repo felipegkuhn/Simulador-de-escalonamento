@@ -1,5 +1,5 @@
 # Simulador-de-escalonamento
-Grupo
+Grupo <br> 
   Felipe Gabriel Kuhn
 
 
